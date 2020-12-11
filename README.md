@@ -24,53 +24,52 @@ NOTE：书籍跟开发板原先打算现场赠送给提问者以及抽奖赠送�
 - 直播观看： https://live.bilibili.com/10339607
 - 腾讯会议： 注册报名后获取腾讯会议接入方式
 - Zoom会议： 12月6日上午的会议通过Zoom会议举行，注册报名后获取Zoom会议接入方式
-- 注册链接： https://www.bagevent.com/event/7014036
+- 注册链接：
 
 ## 时间及议程
 
 ### 2020年12月4日（周五）
 - 09:00-09:30	设备准备等
-- 90:30-10:00	吴伟：PLCT Lab Roadmap 2021
-- 10:00-10:30	邱吉：V8 for RISC-V：从何处来、往何处去
-- 10:30-11:00	邢明杰：RISC-V向量扩展指令架构及编译器支持
-- 11:00-11:30	史宁宁：方舟编译器与 Android Runtime
-- 11:30-12:00	赵伟峰：九层之台，起于累土 —— TenonStudio2020功能及特性介绍
+- 90:30-10:00	吴伟：PLCT Lab Roadmap 2021 [video](https://www.bilibili.com/video/BV1wt4y1k7cN?p=1) [slides]()
+- 10:00-10:30	邱吉：V8 for RISC-V：从何处来、往何处去 [video](https://www.bilibili.com/video/BV1wt4y1k7cN?p=2) [slides]()
+- 10:30-11:00	邢明杰：RISC-V向量扩展指令架构及编译器支持 [video](https://www.bilibili.com/video/BV1wt4y1k7cN?p=3) [slides]()
+- 11:00-11:30	史宁宁：方舟编译器与 Android Runtime [video](https://www.bilibili.com/video/BV1wt4y1k7cN?p=4) [slides]()
+- 11:30-12:00	赵伟峰：九层之台，起于累土 —— TenonStudio2020功能及特性介绍 [video](https://www.bilibili.com/video/BV1wt4y1k7cN?p=5) [slides]()
 - 12:00-14:00	Break
-- 14:00-14:30	许中兴：TenonStudio涉及的技术领域
-- 14:30-15:00	汪达：机器人描述语言SDFormat介绍
-- 15:00-15:30	张洪滨：使用MLIR完成一个端到端的编译流程
-- 15:30-16:00	张尹：基于RISC-V向量扩展的OpenCV优化
-- 16:00-16:30	廖春玉：RVV-Intrinsic 在 Clang 中的实现
-- 16:30-17:00	陈小欧：LLVM测试框架介绍
+- 14:00-14:30	许中兴：TenonStudio涉及的技术领域 [video](https://www.bilibili.com/video/BV1wt4y1k7cN?p=6) [slides]()
+- 14:30-15:00	汪达：机器人描述语言SDFormat介绍 [video](https://www.bilibili.com/video/BV1wt4y1k7cN?p=7) [slides]()
+- 15:00-15:30	张洪滨：使用MLIR完成一个端到端的编译流程 [video](https://www.bilibili.com/video/BV1wt4y1k7cN?p=8) [slides]()
+- 15:30-16:00	张尹：基于RISC-V向量扩展的OpenCV优化 [video](https://www.bilibili.com/video/BV1jT4y1M7ae) [slides]()
+- 16:00-16:30	廖春玉：RVV-Intrinsic 在 Clang 中的实现 [video](https://www.bilibili.com/video/BV1wt4y1k7cN?p=9) [slides]()
+- 16:30-17:00	陈小欧：LLVM测试框架介绍 [video](https://www.bilibili.com/video/BV1wt4y1k7cN?p=10) [slides]()
 - 17:00-17:30	（预留报告位）
 
 ### 2020年12月5日（周六）
 - 09:30-10:00	设备准备等
-- 10:00-10:30	吴章金：人生苦短，我用 Linux Lab 学内核与嵌入式
-- 10:30-11:00	张先轶：基于RISC-V向量指令集优化基础计算软件生态
-- 11:00-11:30	杨文章：面向IoT领域的程序设计语言——DeepLang
-- 11:30-12:00	汪辰：制作一个 RISC-V 平台上的最小安卓系统
+- 10:00-10:30	吴章金：人生苦短，我用 Linux Lab 学内核与嵌入式 [video](https://www.bilibili.com/video/BV1Qy4y1q7ju) [slides]()
+- 10:30-11:00	张先轶：基于RISC-V向量指令集优化基础计算软件生态 [video](https://www.bilibili.com/video/BV1zZ4y1g774) [slides]()
+- 11:00-11:30	杨文章：面向IoT领域的程序设计语言——DeepLang [video]() [slides]()
+- 11:30-12:00	汪辰：制作一个 RISC-V 平台上的最小安卓系统 [video](https://www.bilibili.com/video/BV1Kf4y1i7mW) [slides]()
 - 12:00-14:00	break
-- 14:00-14:30	安龙飞：C++20协程简介和应用
-- 14:30-15:00	陈嘉炜：RISC-V Binutils 简介
-- 15:00-15:30	陆旭凡：RISC-V Vector object in stack and implementation on LLVM
-- 15:30-16:00	陆亚涵：V8中的指针压缩及其实现源码分析
-- 16:00-16:30	陶立强：V8寄存器分配源码分析——以添加RISCV-C扩展为背景
-- 16:30-17:00	千里冰封：后现代类型系统，[slides](https://github.com/ice1000/Books/tree/master/OSDT2020)
+- 14:00-14:30	安龙飞：C++20协程简介和应用 [video](https://www.bilibili.com/video/BV1EZ4y1g7X4) [slides]()
+- 14:30-15:00	陈嘉炜：RISC-V Binutils 简介 [video]() [slides]()
+- 15:00-15:30	陆旭凡：RISC-V Vector object in stack and implementation on LLVM [video]() [slides]()
+- 15:30-16:00	陆亚涵：V8中的指针压缩及其实现源码分析 [video]() [slides]()
+- 16:00-16:30	陶立强：V8寄存器分配源码分析——以添加RISCV-C扩展为背景 [video](https://www.bilibili.com/video/BV19X4y1M7Ax) [slides]()
+- 16:30-17:00	千里冰封：后现代类型系统， [video](https://www.bilibili.com/video/BV1Pt4y1k7tf) [slides](https://github.com/ice1000/Books/tree/master/OSDT2020)
 - 17:00-17:30	闪电演讲（提前或现场报名）
 
 ### 2020年12月6日（周日）
 - 09:30-10:00	设备准备等
-- 10:00-11:00	MaskRay：TBD（演讲题目待定）
-- 11:00-11:30	叶锦云：华为与GCC/LLVM（是否出席待定）
+- 10:00-11:00	MaskRay：How to handle long branches [video](https://www.bilibili.com/video/BV1pt4y1Y7Yz) [slides]()
+- 11:00-11:30	叶锦云：华为毕昇编译优化技术分享 [video](https://www.bilibili.com/video/BV1q5411G7jS) [slides]()
 - 11:30-12:00	闪电演讲环节
 - 12:00-14:00	break
-- 14:00-14:30	王萌：RT-Thread 的 USB-Host 在树莓派上的实现进展
-- 14:30-15:00	张定立
-- 15:00-15:30	王俊强：QEMU 中 RISC-V SoC 的新增与实现 -- 以 NucLei SoC 为例
-- 15:30-16:00	李威威：Spike 扩展方式简介
-- 16:00-16:30	郭任：TBD（是否出席待定）
-- 16:30-17:00	sequencer：TBD（演讲题目待定）
+- 14:00-14:30	王萌：RT-Thread 的 USB-Host 在树莓派上的实现进展 [video](https://www.bilibili.com/video/BV1Wz4y1C7en) [slides]()
+- 14:30-15:00	张定立 Java on RISCV简介与毕昇JDK HiFive Unleashed测试 [video](https://www.bilibili.com/video/BV11K41137dz) [slides]()
+- 15:00-15:30	王俊强：QEMU 中 RISC-V SoC 的新增与实现 -- 以 NucLei SoC 为例 [video](https://www.bilibili.com/video/BV1Jv411b7MY) [slides]()
+- 15:30-16:00	李威威：Spike 扩展方式简介 [video](https://www.bilibili.com/video/BV1Bv411b7DF) [slides]()
+- 16:30-17:00	sequencer：Jabber before your trip to RocketChip [video](https://www.bilibili.com/video/BV1qa4y1W7aj) [slides]()
 - 17:00-17:30	闪电演讲环节
 
 ## 演讲内容介绍

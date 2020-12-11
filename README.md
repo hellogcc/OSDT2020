@@ -52,9 +52,9 @@ NOTE：书籍跟开发板原先打算现场赠送给提问者以及抽奖赠送�
 - 11:30-12:00	汪辰：制作一个 RISC-V 平台上的最小安卓系统 [video](https://www.bilibili.com/video/BV1Kf4y1i7mW)
 - 12:00-14:00	break
 - 14:00-14:30	安龙飞：C++20协程简介和应用 [video](https://www.bilibili.com/video/BV1EZ4y1g7X4)
-- 14:30-15:00	陈嘉炜：RISC-V Binutils 简介 [video]()
-- 15:00-15:30	陆旭凡：RISC-V Vector object in stack and implementation on LLVM [video]()
-- 15:30-16:00	陆亚涵：V8中的指针压缩及其实现源码分析 [video]()
+- 14:30-15:00	陈嘉炜：RISC-V Binutils 简介 [video](https://www.bilibili.com/video/BV1of4y1v7Ss)
+- 15:00-15:30	陆旭凡：RISC-V Vector object in stack and implementation on LLVM [video](https://www.bilibili.com/video/BV1By4y1v7qj)
+- 15:30-16:00	陆亚涵：V8中的指针压缩及其实现源码分析 [video](https://www.bilibili.com/video/BV1oK4y1572D)
 - 16:00-16:30	陶立强：V8寄存器分配源码分析——以添加RISCV-C扩展为背景 [video](https://www.bilibili.com/video/BV19X4y1M7Ax)
 - 16:30-17:00	千里冰封：后现代类型系统， [video](https://www.bilibili.com/video/BV1Pt4y1k7tf) [slides](https://github.com/ice1000/Books/tree/master/OSDT2020)
 - 17:00-17:30	闪电演讲（提前或现场报名）
